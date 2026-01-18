@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=001f3f&height=250&section=header&text=My%20Biodata&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%10Engineering%10Student&descSize=15&descAlignV=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=001f3f&height=250&section=header&text=My%20Biodata&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student&descSize=15&descAlignV=70" width="100%" />
 </p>
 
 <table width="100%" border="0">
