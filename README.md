@@ -5,7 +5,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="IMG_1402.JPG" width="350px" style="border-radius: 50px; border: 6px solid #001f3f; box-shadow: 15px 15px 30px rgba(0,0,0,0.3);" />
+   <img src="./IMG_1402.JPG" width="400px" style="border-radius: 30px; border: 8px solid #001f3f; box-shadow: 20px 20px 40px rgba(0,0,0,0.4);" alt="Profile Photo" />
       <br><br>
       <h2 align="center">Zihni Fawwas</h2>
       <p align="center"><i>Building the future through code.</i></p>
