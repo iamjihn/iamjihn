@@ -34,7 +34,7 @@
 
 ---
 ### 🗣️My Motto
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Team+Work;High+Dedication;New+Collaboration" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=white&width=435&lines=Team+Work;High+Dedication;New+Collaboration" alt="Typing SVG" />
 
 ---
 ### 📫 Let's Connect
