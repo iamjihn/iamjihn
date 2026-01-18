@@ -25,25 +25,14 @@
         <img src="https://img.shields.io/badge/Java-001f3f?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/C-001f3f?style=for-the-badge&logo=c&logoColor=white" />   
         <h3> 🚀 About Me</h3>
-- 🎓<b>Education:</b> <i> Computer Engineering</i> at <b>Politeknik Caltex Riau.</b>
-- 🔍 <b>Focus:</b> High-performance web applications and data-driven insights.
-- ⚡ <b>Learning:</b> Low-level programming and Embedded Systems.
+- 🎓<b>Education:</b> <i> Computer Engineering</i> at <b>Politeknik Caltex Riau.</b> <br>
+- 🔍 <b>Focus:</b> High-performance web applications and data-driven insights.<br>
+- ⚡ <b>Learning:</b> Low-level programming and Embedded Systems.<br>
 - ☕ <b>Fuel:</b> Coffee logic `if (coffee) { code(); } else { sleep(); }`.
       </p>
     </td>
-  >
-  
-
   </tr>
 </table>
-
----
-
-### 🚀 About Me
-- 🎓 **Education:** Computer Engineering at **Politeknik Caltex Riau**.
-- 🔍 **Focus:** High-performance web applications and data-driven insights.
-- ⚡ **Learning:** Low-level programming and Embedded Systems.
-- ☕ **Fuel:** Coffee logic `if (coffee) { code(); } else { sleep(); }`.
 
 ---
 
