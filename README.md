@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
   </a>
 </p>
+
 ## 🚀 About Me
 I am a **Computer Engineering** student at **Politeknik Caltex Riau**. I bridge the gap between hardware logic and software innovation, focusing on **Web Development** and **Data Science**.
 
