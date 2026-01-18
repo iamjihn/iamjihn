@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=001f3f&height=250&section=header&text=My%20Biodata&fontSize=100&fontColor=ffffff&animation=fadeIn&desc width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=001f3f&height=250&section=header&text=My%20Biodata&fontSize=100&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <table width="100%" border="0">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="IMG_1402.JPG" width="300px" style="border-radius: 50px; border: 4px solid #001f3f; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);" />
+    <td width="40%" align="center" valign="middle">
+      <img src="IMG_1402.JPG" width="350px" style="border-radius: 50px; border: 6px solid #001f3f; box-shadow: 15px 15px 30px rgba(0,0,0,0.3);" />
       <br><br>
       <h2 align="center">Zihni Fawwas</h2>
       <p align="center"><i>Building the future through code.</i></p>
     </td>
-    <td width="65%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=001f3f&width=435&lines=Web+Developer;Data+Science+Enthusiast;Hardware+Specialist" alt="Typing SVG" />
+    <td width="60%" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Web+Developer;Data+Science+Enthusiast;Hardware+Specialist" alt="Typing SVG" />
       <br>
       <h3> 🛠 Technologies I Use </h3>
       <p>
