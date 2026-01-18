@@ -7,7 +7,7 @@
     <td width="40%" align="center" valign="middle">
    <img src="./IMG_1402.JPG" width="400px" style="border-radius: 30px; border: 8px solid #001f3f; box-shadow: 20px 20px 40px rgba(0,0,0,0.4);" alt="Profile Photo" />
       <br><br>
-      <h2 align="center">Zihni Fawwas</h2>
+      <h2 align="center">Muhammad Zihni Fawwas</h2>
       <p align="center"><i>Building the future through code.</i></p>
     </td>
     <td width="60%" valign="top">
@@ -35,15 +35,10 @@
 </table>
 
 ---
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamjihn&show_icons=true&theme=nord&bg_color=001f3f&title_color=ffffff&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjihn&layout=compact&theme=nord&bg_color=001f3f&title_color=ffffff&text_color=ffffff&hide_border=true" width="39%" />
-</p>
+### 🗣️My Motto
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Team+Work;High+Dedication;New+Collaboration" alt="Typing SVG" />
 
 ---
-
 ### 📫 Let's Connect
 <p align="center">
   <a href="mailto:zihnifawwaz386@gmail.com"><img src="https://img.shields.io/badge/Gmail-001f3f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
