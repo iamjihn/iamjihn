@@ -5,13 +5,13 @@
 <table width="100%" border="0">
   <tr>
     <td width="40%" align="center" valign="middle">
-   <img src="./IMG_1402.JPG" width="100px" style="border-radius: 30px; border: 8px solid #001f3f; box-shadow: 20px 20px 40px rgba(0,0,0,0.4);" alt="Profile Photo" />
+   <img src="./IMG_1402.JPG" width="200px" style="border-radius: 30px; border: 8px solid #001f3f; box-shadow: 20px 20px 40px rgba(0,0,0,0.4);" alt="Profile Photo" />
       <br><br>
       <h2 align="center">Muhammad Zihni Fawwas</h2>
       <p align="center"><i>Building the future through code.</i></p>
     </td>
     <td width="60%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Team+Work;High+Dedication;New+Collaboration" alt="Typing SVG" />
+   
       <br>
       <h3> 🛠 Technologies I Use </h3>
       <p>
