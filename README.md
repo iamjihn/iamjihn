@@ -5,10 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
   </a>
 </p>
-<h1 align="center">Muhammad Zihni Fawwas</h1>
-<p align="center">
-  <b>Computer Engineering Student | Web Dev | Data Science</b>
-</p>
 ## 🚀 About Me
 I am a **Computer Engineering** student at **Politeknik Caltex Riau**. I bridge the gap between hardware logic and software innovation, focusing on **Web Development** and **Data Science**.
 
