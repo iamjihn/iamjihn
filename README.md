@@ -23,16 +23,17 @@
       <p>
         <img src="https://img.shields.io/badge/Python-001f3f?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-001f3f?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-001f3f?style=for-the-badge&logo=c&logoColor=white" />
-      </p>
-    </td>
-    <td width="60%" valign="top">
-      ### 🚀 About Me
+        <img src="https://img.shields.io/badge/C-001f3f?style=for-the-badge&logo=c&logoColor=white" />   
+        ### 🚀 About Me
 - 🎓 **Education:** Computer Engineering at **Politeknik Caltex Riau**.
 - 🔍 **Focus:** High-performance web applications and data-driven insights.
 - ⚡ **Learning:** Low-level programming and Embedded Systems.
 - ☕ **Fuel:** Coffee logic `if (coffee) { code(); } else { sleep(); }`.
+      </p>
     </td>
+  >
+  
+
   </tr>
 </table>
 
