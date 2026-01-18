@@ -1,9 +1,13 @@
 # <p align="center">Hi there! I'm Muhammad Zihni Fawwas 👋</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20Dev%20%26%20Data%20Science&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/m-p-p-p/m-p-p-p/main/assets/line-neon.gif" width="100%">
 </p>
 
+<h1 align="center">Muhammad Zihni Fawwas</h1>
+<p align="center">
+  <b>Computer Engineering Student | Web Dev | Data Science</b>
+</p>
 ## 🚀 About Me
 I am a **Computer Engineering** student at **Politeknik Caltex Riau**. I bridge the gap between hardware logic and software innovation, focusing on **Web Development** and **Data Science**.
 
