@@ -1,9 +1,10 @@
 # <p align="center">Hi there! I'm Muhammad Zihni Fawwas 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-p-p-p/m-p-p-p/main/assets/line-neon.gif" width="100%">
+  <a href="https://github.com/iamjihn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
+  </a>
 </p>
-
 <h1 align="center">Muhammad Zihni Fawwas</h1>
 <p align="center">
   <b>Computer Engineering Student | Web Dev | Data Science</b>
