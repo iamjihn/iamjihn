@@ -11,7 +11,7 @@
       <p align="center"><i>Building the future through code.</i></p>
     </td>
     <td width="60%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Web+Developer;Data+Science+Enthusiast;Hardware+Specialist" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&width=435&lines=Team+Work;High+Dedication;New+Collaboration" alt="Typing SVG" />
       <br>
       <h3> 🛠 Technologies I Use </h3>
       <p>
