@@ -11,8 +11,6 @@
       <p align="center"><i>Building the future through code.</i></p>
     </td>
     <td width="60%" valign="top">
-   
-      <br>
       <h3> 🛠 Technologies I Use </h3>
       <p>
         <img src="https://img.shields.io/badge/HTML5-001f3f?style=for-the-badge&logo=html5&logoColor=white" />
